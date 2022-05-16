@@ -1,6 +1,8 @@
 # Learn-SQL
 Examples of using SQL
 
+Примеры использования SQL
+
 ## [Установка и настройка БД](https://github.com/berpress/Learn-SQL/blob/main/first_step/SETUP.md)
  - Установка
  - Создание таблиц и заполнение
@@ -17,3 +19,7 @@ Examples of using SQL
  - GROUP BY
  - HAVING
 
+## [JOIN](https://github.com/berpress/Learn-SQL/blob/main/join/JOIN.md)
+ - JOIN
+ - LEFT JOIN
+ - RIGHT JOIN
