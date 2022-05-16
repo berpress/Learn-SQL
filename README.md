@@ -19,7 +19,7 @@ Examples of using SQL
  - GROUP BY
  - HAVING
 
-## [JOIN](https://github.com/berpress/Learn-SQL/blob/main/join/JOIN.md)
+## [JOIN](https://github.com/berpress/Learn-SQL/blob/main/join/JOIN.MD)
  - JOIN
  - LEFT JOIN
  - RIGHT JOIN
